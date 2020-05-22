@@ -4,8 +4,8 @@ import threading
 import time
 from colorama import Fore, Back, Style
 
-email = "loganpind@yahoo.com"
-password = "Loganp85"
+email = "email"
+password = "password"
 
 prefix = "Fuck"
 
